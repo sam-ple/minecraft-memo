@@ -1,18 +1,18 @@
-title: Minescript Sample
-description: Minescript Sample
+title: Minecraft Memo
+description: Minecraft Memo
 theme: just-the-docs
 
-url: https://sam-ple.github.io/minescript-sample
+url: https://sam-ple.github.io/minecraft-memo
 
 # Aux links for the upper right navigation
 aux_links:
   "View it on GitHub":
-    - "https://github.com/sam-ple/minescript-sample"
+    - "https://github.com/sam-ple/minecraft-memo"
 
 # External navigation links
 nav_external_links:
   - title: View it on GitHub
-    url: https://github.com/sam-ple/minescript-sample
+    url: https://github.com/sam-ple/minecraft-memo
 
 # Back to top link
 back_to_top: true
@@ -21,7 +21,7 @@ back_to_top_text: "Back to top"
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/sam-ple/minescript-sample" # the github URL for your repo
+gh_edit_repository: "https://github.com/sam-ple/minecraft-memo" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
