@@ -18,7 +18,7 @@ layout: post
 ## Tool
 
 ### Skin
-- [Minecraft Skin Editor | PMCSkin3D](https://www.planetminecraft.com/skin-editor/)
+- [Minecraft Skin Editor - PMCSkin3D](https://www.planetminecraft.com/skin-editor/)
 - [Nova Skin - Minecraft Skin Editor](https://minecraft.novaskin.me/)
 
 ### Animation
