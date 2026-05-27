@@ -1,0 +1,16 @@
+Modrinth
+Prism Launcher
+
+Aternos
+自宅サーバー　Vanilla
+自宅サーバー　Paper + playit.gg
+└Mod EssentialX/Tab/
+
+Minescript
+datapack
+Skript
+plugin
+
+
+
+
